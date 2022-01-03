@@ -13,3 +13,4 @@ def init_driver(request):
     yield
     web_driver.close()
     web_driver.quit()
+
