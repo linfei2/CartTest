@@ -12,7 +12,7 @@
 The most recent versions of Chrome and Firefox browsers (determined by WebDriver Manager)
 ```
 
-## Test Case 1 - Adding product to cart
+## Test Case 1 - Add product to cart
 
 #### Steps
 ```
