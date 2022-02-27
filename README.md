@@ -44,7 +44,8 @@ Prerequisites: user is on https://moim.store/koszyk/ and there is a product in t
 
 #### Expected result
 ```
-The product is removed from cart and "Twój koszyk aktualnie jest pusty." [Your cart is currently empty] message shows up
+The product is removed from cart and "Twój koszyk aktualnie jest pusty."
+[Your cart is currently empty] message shows up
 ```
 
 
