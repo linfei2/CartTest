@@ -3,7 +3,7 @@
 
 ## Technologies
 ```
-* Python 3.7.5
+* Python 3.8.10
 * WebDriver Manager
 ```
 
