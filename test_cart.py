@@ -1,5 +1,5 @@
 import pytest
-from BaseClass import BaseClass
+from base_class import BaseClass
 from time import sleep
 from locators import Loc
 
