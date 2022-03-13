@@ -12,6 +12,11 @@
 The most recent versions of Chrome and Firefox browsers (determined by WebDriver Manager)
 ```
 
+#### Setup
+```
+pip install -r requirements.txt
+```
+
 ## Test Case 1 - Add product to cart
 
 #### Steps
